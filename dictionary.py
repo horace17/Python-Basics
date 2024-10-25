@@ -17,4 +17,4 @@ student = {
     "school_fee": 20000
 }
 
-print(student)
+print(student["units"][0])
